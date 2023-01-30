@@ -1,2 +1,2 @@
 test content
-added from bug1 branch
+added from bug1 branch change2
